@@ -578,4 +578,7 @@ window.onload = myF;
                 
                 var option = new Option("189話", "/n00001/p00001/n00001-189");
                 n000011.appendChild(option);
+                
+                var option = new Option("190話", "/n00001/p00001/n00001-190");
+                n000011.appendChild(option);
             }
