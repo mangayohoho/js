@@ -293,4 +293,7 @@ window.onload = myF;
                 
                 var option = new Option("97話", "/n00021/p00021/n00021-97");
                 n000011.appendChild(option);
+                
+                var option = new Option("98話", "/n00021/p00021/n00021-98");
+                n000011.appendChild(option);
             }
